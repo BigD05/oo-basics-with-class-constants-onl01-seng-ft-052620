@@ -13,4 +13,5 @@ BRAND = []
   def brand 
     @brannd = brand 
     BRAND << brand 
+  end 
 end
